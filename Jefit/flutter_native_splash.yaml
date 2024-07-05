@@ -1,0 +1,22 @@
+flutter_native_splash:
+
+  color: "#131419"
+  image: "assets/images/Jefit.png"
+  android: true
+  ios: true
+  android_gravity: "center"
+
+ 
+  color_dark: "#131419"
+  image_dark: "assets/images/Jefit.png"
+  
+
+  android_12:
+    color: "#131419"
+    image: "assets/images/Jefit.png"
+    android_gravity: "center"
+
+   
+    color_dark: "#131419"
+    image_dark: "assets/images/Jefit.png"
+  
